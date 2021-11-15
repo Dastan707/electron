@@ -1,7 +1,5 @@
 const { app, BrowserWindow } = require('electron');
 
-export default GH_TOKEN=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
-
 const init = () => {
 
     const mainWindow = new BrowserWindow();
