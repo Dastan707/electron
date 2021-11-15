@@ -1,6 +1,6 @@
 {
   "name": "electron-test",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "hello",
   "main": "src/main.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "devDependencies": {
     "electron": "^15.3.1",
     "electron-builder": "^22.13.1"
+  },
+  "dependencies": {
+    "update-electron-app": "^2.0.1"
   }
 }
